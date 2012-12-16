@@ -1,1 +1,3 @@
 Sample application that shows how Cloud Foundry exposes service information to Spring applications.
+
+Updated to Spring 3.2 December 2012.
