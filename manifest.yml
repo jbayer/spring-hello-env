@@ -1,0 +1,9 @@
+---
+applications:
+- name: spring32-env
+  framework: spring
+  runtime: java7
+  memory: 256M
+  instances: 1
+  url: spring32-env-${random-word}.${target-base}
+  path: ./target/spring-hello-env-1.1.0-BUILD-SNAPSHOT
